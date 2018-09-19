@@ -25,7 +25,7 @@
 9. Once saved, the coordinate arrays are pushed to the firebase database and may be retreived when loading again, even if the localhost is disconnect and reloaded. 
 
 ### Notes about Firebase
-1. There is a `50,000` daily cap on the reads and writes to the database. As of this commit, the quota for Monday 9/10 is at ~65% due to previous testing. 
+1. There is a `50,000` daily cap on the reads and writes to the database. 
 2. Should you desire to test it yourself, be careful of how long each recording is, since you will not be able to view the data should you reach the daily cap. 
 3. The cap resets at 12:00 am PST / 3:00 am EST.
 
