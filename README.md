@@ -14,7 +14,7 @@ Tracking of user mouse movements, persisted to a firebase database.
 
 ### Upcoming Features
 
-(1) Tracking of user mouse clicks
+(1) Tracking of user mouse clicks  
 (2) Persistence to other databases 
 
 If you have a suggestion, submit a PR!
