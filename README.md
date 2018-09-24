@@ -1,13 +1,23 @@
-# Mouse Tracker
+# Demo
 
 Here's a video demo https://www.useloom.com/share/47f657f461df42c99166ae609ad22710
 
-### Spec
+### About Mouse Tracker
 
-- Should have a UI where a user can record their mouse, play back recordings, view all previous recordings, delete previous recordings
-- Recordings should be at 60fps
-- Every recording should have a name
-- Once a recording has been taken, it should persist to a database. I should be able to go view all previous recordings and play any of them.
+Mouse Tracker is being built to provide open-source analytical tools for developers so that user data can be measured and kept securely between the application developers and the user to maintain privacy and security. 
+
+Built for use with React JavaScript components, Mouse Tracker can be added to components or applications as needed. 
+
+### Current Features:
+
+Tracking of user mouse movements, persisted to a firebase database.
+
+### Upcoming Features
+
+(1) Tracking of user mouse clicks
+(2) Persistence to other databases 
+
+If you have a suggestion, submit a PR!
 
 ### Issues
 
