@@ -6,6 +6,7 @@ import "./recording-styles.css";
 import firebase from "../../firebase";
 const db = firebase.firestore();
 
+// Add mongoDB and PostgreSQL endpoints as well
 class Recording extends Component {
   constructor() {
     super();
